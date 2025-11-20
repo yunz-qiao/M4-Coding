@@ -1,0 +1,6 @@
+788d4ba Task 1.1
+788d4b1 Task 1.2
+788d4b2 Task 2.1
+788d4b3 Task 2.2
+788d4b4 Task 2.3
+788d4b5 Task 2.4
